@@ -2,122 +2,52 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+!! 该页面目前还在开发（指只有一个项目填充一个网址实在有点不好）
 
-[Link to another page](./another-page.html).
+# 关于我自己
 
-There should be whitespace between paragraphs.
+什么？你不认识我？那就对了，我也不认识你（bushi）。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+我叫DeadBoy2537（网名或者游戏ID基本都叫这个），原称随缘（现在也可以叫我这个），别称大水怪，但是不能叫我DB（认真脸）
 
-# Header 1
+我是一个服务器的服主（LeafTown服务器）
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+原来因为服务器的项目没地方放，所以开了一个专门备份项目的仓库
 
-## Header 2
+还在那个仓库开了个网页分支
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+但是这样一看这网页只有分页没有主页，如果忘记后面的一堆是什么，就404 Not Found了
 
-### Header 3
+于是，这个主页就出现了
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 聊天方式
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+QQ: [2781888329](https://qm.qq.com/cgi-bin/qm/qr?k=CNB_9xj8MfUWCEhYnIr8nB63X_JjrrpW&noverify=0).
 
-#### Header 4
+B站UID: [401031346](https://b23.tv/ranFl0A).
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+邮箱: deadboy2537@gmail.com 或 2781888329@qq.com
 
-##### Header 5
+（暂不提供Telegram和Discord）
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 服务器
 
-###### Header 6
+LeafTown 互通生存服务器
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+内含科技，职业，种族，魔法等原版拓展玩法
 
-### There's a horizontal rule below this.
+通过Geyser，Java版、基岩版都可以加入到游戏中
 
-* * *
+同时，玩家可以为服务器出一份力（推荐插件、加入汉化组等）
 
-### Here is an unordered list:
+服务器大群: [1050360275](https://jq.qq.com/?_wv=1027&k=TqzsqpMw).
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+服务器项目组: [758234632](https://jq.qq.com/?_wv=1027&k=vmq91hTr).
 
-### And an ordered list:
+#### 服务器项目
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+目前，叶镇有一个备份与恢复的仓库
 
-### And a nested list:
+储存着目前服务器正在进行的项目
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[点我了解详情](./LTSProjects).
